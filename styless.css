@@ -1,0 +1,609 @@
+/* Avisos */
+
+box-sizing: border-box;
+
+position: relative;
+width: 2152px;
+height: 1027px;
+
+background: #404040;
+border: 1px solid rgba(255, 255, 255, 0.1);
+border-radius: 2px;
+
+
+/* Aviso sobre inspect */
+
+position: absolute;
+width: 950px;
+height: 827px;
+left: 100px;
+top: 100px;
+
+
+
+/* Group 47705 */
+
+position: absolute;
+width: 950px;
+height: 827px;
+left: 100px;
+top: 100px;
+
+
+
+/* Aviso aba Inspect */
+
+position: absolute;
+width: 950px;
+height: 827px;
+left: 100px;
+top: 100px;
+
+
+
+/* Group 47697 */
+
+position: absolute;
+width: 950px;
+height: 827px;
+left: 100px;
+top: 100px;
+
+
+
+/* Group 47693 */
+
+position: absolute;
+width: 950px;
+height: 827px;
+left: 100px;
+top: 100px;
+
+
+
+/* Aviso */
+
+position: absolute;
+width: 950px;
+height: 827px;
+left: 100px;
+top: 100px;
+
+
+
+/* Frame 427319917 */
+
+position: absolute;
+width: 902px;
+height: 333px;
+left: 20px;
+top: 0px;
+
+
+
+/* Rectangle 186 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 950px;
+height: 827px;
+left: -20px;
+top: 827px;
+
+background: #021017;
+border: 1px solid #2BDEFD;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Frame 427319919 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+position: absolute;
+width: 872px;
+height: 176px;
+left: 30px;
+top: 32px;
+
+
+
+/* Frame 427319918 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 872px;
+height: 176px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Sobre a aba inspect */
+
+width: 872px;
+height: 62px;
+
+font-family: 'Chakra Petch';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 150%;
+/* or 60px */
+text-transform: uppercase;
+
+color: #2BDEFD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Olá, estudante! A aba Inspect, mencionada no curso, passou por uma atualização recente do Figma e tornou-se parte de um modelo de conta pago. */
+
+width: 872px;
+height: 90px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+/* white-title */
+color: #D7F9FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Mas não se preocupe, nesse figma onde estamos você consegue obter as informações de que precisa selecionando os elementos e verificando na aba Properties: */
+
+position: absolute;
+width: 872px;
+height: 60px;
+left: 30px;
+top: 230px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+/* white-title */
+color: #D7F9FF;
+
+
+
+/* Aba Properties. Observe que ela já fornece informações importantes sobre seu componente. */
+
+position: absolute;
+width: 169px;
+height: 240px;
+left: 609px;
+top: 328px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+display: flex;
+align-items: center;
+
+color: #2BDEFD;
+
+
+
+/* Caso surjam dúvidas, contate o fórum do curso, que nossa equipe vai ajudar!Bons estudos! */
+
+position: absolute;
+width: 775px;
+height: 60px;
+left: 51px;
+top: 732px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+display: flex;
+align-items: center;
+
+color: #2BDEFD;
+
+
+
+/* Arrow 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 70px;
+height: 0px;
+left: 515px;
+top: 344px;
+
+background: #2BDEFD;
+border: 2px solid #2BDEFD;
+
+
+/* image 7 */
+
+position: absolute;
+width: 464px;
+height: 368px;
+left: 51px;
+top: 331px;
+
+background: url(image);
+border: 3px solid #D7F9FF;
+
+
+/* Line 1 */
+
+position: absolute;
+width: 40px;
+height: 0px;
+left: 411px;
+top: 350px;
+
+border: 3px solid #2BDEFD;
+
+
+/* Rectangle 194 */
+
+position: absolute;
+width: 156px;
+height: 360px;
+left: 359px;
+top: 333px;
+
+border: 2px solid #2BDEFD;
+
+
+/* Logo a */
+
+position: absolute;
+left: 94.21%;
+right: 3.81%;
+top: 91.29%;
+bottom: 5.17%;
+
+background: #FFFFFF;
+
+
+/* Fill-1_1_-path */
+
+position: absolute;
+left: 94.7%;
+right: 4.3%;
+top: 93.05%;
+bottom: 5.65%;
+
+
+
+/* Fill-1_1_-path */
+
+position: absolute;
+left: 94.21%;
+right: 3.81%;
+top: 91.29%;
+bottom: 5.17%;
+
+
+
+/* Aviso cópia projeto */
+
+position: absolute;
+width: 950px;
+height: 605px;
+left: 1102px;
+top: 100px;
+
+
+
+/* Group 47696 */
+
+position: absolute;
+width: 950px;
+height: 605px;
+left: 1102px;
+top: 100px;
+
+
+
+/* Group 47693 */
+
+position: absolute;
+width: 950px;
+height: 605px;
+left: 1102px;
+top: 100px;
+
+
+
+/* Aviso */
+
+position: absolute;
+width: 950px;
+height: 605px;
+left: 1102px;
+top: 100px;
+
+
+
+/* Frame 427319917 */
+
+position: absolute;
+width: 828px;
+height: 333px;
+left: 20px;
+top: 0px;
+
+
+
+/* Rectangle 187 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 950px;
+height: 586px;
+left: -20px;
+top: 586px;
+
+background: #021017;
+border: 1px solid #2BDEFD;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Frame 427319919 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+position: absolute;
+width: 768px;
+height: 146px;
+left: 35px;
+top: 32px;
+
+
+
+/* Frame 427319918 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 862px;
+height: 146px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* PARA CRIAR SUA CÓPIA DO PROJETO: */
+
+width: 862px;
+height: 62px;
+
+font-family: 'Chakra Petch';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 150%;
+/* or 60px */
+text-transform: uppercase;
+
+color: #2BDEFD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Este é um figma de uso coletivo, por isso não é permitida a edição neste link. Para editar como deseja, você deve fazer uma cópia: */
+
+width: 862px;
+height: 60px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+/* white-title */
+color: #D7F9FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Clique na setinha na barra superior > Duplicate to your drafts*Por favor, não clique em “Ask to edit” */
+
+position: absolute;
+width: 365px;
+height: 120px;
+left: 516px;
+top: 300px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+/* white-title */
+color: #D7F9FF;
+
+
+
+/* Logo a */
+
+position: absolute;
+left: 94.11%;
+right: 3.92%;
+top: 85.62%;
+bottom: 9.55%;
+
+background: #FFFFFF;
+
+
+/* Fill-1_1_-path */
+
+position: absolute;
+left: 94.6%;
+right: 4.4%;
+top: 88.02%;
+bottom: 10.2%;
+
+
+
+/* Fill-1_1_-path */
+
+position: absolute;
+left: 94.11%;
+right: 3.92%;
+top: 85.62%;
+bottom: 9.55%;
+
+
+
+/* Arrow 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 116px;
+height: 0px;
+left: 1490px;
+top: 456px;
+
+border: 2px solid #D7F9FF;
+
+
+/* Group 47704 */
+
+position: absolute;
+width: 332px;
+height: 293px;
+left: 1159px;
+top: 313px;
+
+
+
+/* Group 47703 */
+
+position: absolute;
+width: 332px;
+height: 293px;
+left: 1159px;
+top: 313px;
+
+
+
+/* Group 47692 */
+
+position: absolute;
+width: 332px;
+height: 293px;
+left: 1159px;
+top: 313px;
+
+
+
+/* image 10 */
+
+position: absolute;
+width: 332px;
+height: 293px;
+left: 1159px;
+top: 313px;
+
+background: url(image);
+border: 2px solid #D7F9FF;
+
+
+/* Rectangle 195 */
+
+position: absolute;
+width: 43px;
+height: 54px;
+left: 1197px;
+top: 536px;
+
+background: #000000;
+
+
+/* Rectangle 196 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 201px;
+height: 23px;
+left: 1240px;
+top: 502px;
+
+border: 2px solid #2BFDBE;
+
+
+/* Rectangle 197 */
+
+position: absolute;
+width: 21px;
+height: 24px;
+left: 1330px;
+top: 324px;
+
+border: 2px solid #2BFDBE;
+
